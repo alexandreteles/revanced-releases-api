@@ -19,7 +19,7 @@ httptools==0.4.0; python_version >= "3.7" and python_full_version >= "3.5.0" and
 httpx-cache==0.6.0; python_version >= "3.7" and python_version < "4.0"
 httpx==0.23.0; python_version >= "3.7"
 hyperframe==6.0.1; python_version >= "3.7" and python_full_version >= "3.6.1" and python_version < "4.0"
-idna==3.3
+idna==3.4
 limits==1.6; python_version >= "3.7" and python_version < "4.0"
 loguru==0.6.0; python_version >= "3.5"
 msgpack==1.0.4
