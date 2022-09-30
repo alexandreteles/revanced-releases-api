@@ -1,4 +1,4 @@
-# ReVanced Releases API
+# ARCHIVED IN FAVOR OF [https://github.com/revanced/revanced-releases-api](https://github.com/revanced/revanced-releases-api)
 
 ![License: AGPLv3](https://img.shields.io/github/license/alexandreteles/revanced-releases-api)
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexandreteles/revanced-releases-api)
